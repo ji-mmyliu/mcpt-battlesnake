@@ -9,6 +9,7 @@ nav_order: 1
 
 MCPT's Competitive Branch is excited to present the **first annual MCPT Battlesnake tournament**!
 
+**Stay tuned: there will be exciting prizes for the finalists of the tournament! (the top 4 teams)**
 
 ----------
 
